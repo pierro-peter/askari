@@ -1,0 +1,23 @@
+body {
+    background-color: blanchedalmond;
+    text-align: center;
+    align-items: center;
+}
+h1 {
+    color: brown;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+p {
+    font-size: 24px;
+}
+#second {
+    color: brown;
+}
+.third {
+        color: green;
+}
